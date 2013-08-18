@@ -1,6 +1,10 @@
 #Xcode-Appledoc-Snippets
 
-Code Snippets I created for making my life a bit easier when creating documentation using appledoc.  I took inspiration to share my snippets in this way from Matt Thompson [github.com/mattt](http://www.github.com/mattt/Xcode-Snippets).
+Code Snippets I created for making my life a bit easier when creating documentation using appledoc.  
+
+It's a bit easier to just drag and drop the part of the documentation you want to add.  Small time-saver, don't have to remember the syntax when you're a beginner or haven't done it for a while.
+
+I took inspiration to share my snippets in this way from Matt Thompson [github.com/mattt](http://www.github.com/mattt/Xcode-Snippets).
 
 ## Using Snippets
 
