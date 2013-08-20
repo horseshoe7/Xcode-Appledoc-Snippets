@@ -6,5 +6,5 @@
 // Language: Objective-C
 // Completion Scope: Function or Method
 /**
- <#property description#>
+ @abstract <#property description#>
  */

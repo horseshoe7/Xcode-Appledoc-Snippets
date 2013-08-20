@@ -6,7 +6,7 @@
 // Completion Scope: Function or Method
 
 /**
- <#method_description#>
+ @abstract <#method_description#>
  @param <#parameter#>
  @returns <#retval#>
  */
